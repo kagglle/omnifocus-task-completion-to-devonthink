@@ -1,4 +1,4 @@
-# Omnifocus task completion report for DevonThink
+# Omnifocus task completion report for DevonThink Pro
 
 This script retrieves a list of OmniFocus tasks completed today, yesterday, this week, last week, or this month. It then summarizes the tasks in a new DevonThink note.
 
